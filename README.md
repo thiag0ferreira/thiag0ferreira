@@ -6,7 +6,7 @@
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thiag0ferreira&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiag0ferreira&show_icons=true&theme=dracula)](https://github.com/thiag0ferreira/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiag0ferreira&layout=compact&theme=dracula)](https://github.com/thiag0ferreira/github-readme-stats)
 
 ### Tecnologias que utilizo no dia a dia
 
